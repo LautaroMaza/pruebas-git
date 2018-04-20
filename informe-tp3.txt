@@ -1,0 +1,23 @@
+* commit f8ba6e3454bdbedf1b9bb9f93bf60d63f45a62f9 (HEAD -> master, codigo)
+| Author: Lautaro Javier <LautaroMaza@gmail.com>
+| Date:   Fri Apr 20 00:49:10 2018 -0300
+| 
+|     Java modificado
+| 
+* commit f586180a7fa64d369014c45b51a5540c9897f3d0
+| Author: Lautaro Javier <LautaroMaza@gmail.com>
+| Date:   Fri Apr 20 00:44:48 2018 -0300
+| 
+|     Primer commit
+| 
+* commit a8838a1dd7833cdfddf524364f2fd19dbc6fdd7f (origin/master, origin/HEAD)
+  Author: LautaroMaza <38547265+LautaroMaza@users.noreply.github.com>
+  Date:   Fri Apr 20 00:12:40 2018 -0300
+  
+      Initial commit
+f8ba6e3 HEAD@{0}: merge codigo: Fast-forward
+a8838a1 HEAD@{1}: checkout: moving from codigo to master
+f8ba6e3 HEAD@{2}: commit: Java modificado
+f586180 HEAD@{3}: commit: Primer commit
+a8838a1 HEAD@{4}: checkout: moving from master to codigo
+a8838a1 HEAD@{5}: clone: from git://github.com/LautaroMaza/pruebas-git.git
