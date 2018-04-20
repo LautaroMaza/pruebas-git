@@ -7,10 +7,10 @@ public class Punto_1 {
 		float precio;
 		float abono = 0;
 		int i;
-		System.out.print("Ingrese el precio del producto: ");
+		System.out.print("Ingrese el precio de los producto: ");
 		Scanner teclado = new Scanner (System.in);
 		precio = teclado.nextFloat();
-		System.out.print("Ingrese la cantidad de productos que llevara: ");
+		System.out.print("Ingrese la cantidad de productos que va llevar: ");
 		Scanner teclado2 = new Scanner (System.in);
 		cantidad = teclado2.nextInt();
 		for(i=0; i<cantidad; i++){
