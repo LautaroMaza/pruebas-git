@@ -17,6 +17,7 @@ public class Punto_1 {
 			abono = abono + precio;
 		}
 		System.out.print(abono);
+		System.out.print("LALALALAALALALALAALALALA");
 	}
 
 }
